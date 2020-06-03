@@ -1,0 +1,121 @@
+Introduction to Computing Technology
+Introduction to Computer-Assisted Problem Solving
+Introduction to Computer-Assisted Problem Solving for Construction Systems Management
+Spreadsheet Programming for Business
+Introduction to Databases Using MS Access
+Group Studies in Computer Science and Engineering
+Group Studies in Computer Science and Engineering
+Computational Thinking in Context: Images, Animation, and Games
+Computational Thinking in Context: Mobile Applications
+Computational Thinking in Context: Mobile Applications
+Computational Thinking in Context: Game Development
+Introduction to Computer Programming in MATLAB for Engineers and Scientists
+Introduction to Computer Programming in C++ for Engineers and Scientists
+Introduction to Computer Programming in Java
+Introduction to Modeling and Simulation
+Modeling and Problem Solving with Spreadsheets and Databases
+Modeling and Problem Solving with Spreadsheets and Databases for Engineers
+Data Structures Using C++
+Data Structures Using Java
+Business Programming with File Processing
+Individual Studies in Computer Science and Engineering
+Group Studies in Computer Science and Engineering
+Software I: Software Components
+Software I.5-Transition: Development of Software Components
+Software II: Software Development and Design
+Software II-Transition: Software Development and Design
+Software II.5-Transition: Software Development in Java
+Business Programming with File Processing
+Foundations I: Discrete Structures
+Foundations II: Data Structures and Algorithms
+Systems I: Introduction to Low-Level Programming and Computer Organization
+Systems II: Introduction to Operating Systems
+Advanced C Programming
+Social, Ethical, and Professional Issues in Computing
+Software Engineering Techniques
+Software Requirements Analysis
+Introduction to Database Systems
+Data Management in the Cloud
+Automata and Formal Languages
+Principles of Programming Languages
+Introduction to Computer Architecture
+Overview of Computer Systems For Non-Majors
+Computer Networking and Internet Technologies
+Survey of Artificial Intelligence I: Basic Techniques
+Computer Game and Animation Techniques
+Web Applications
+Interactive Systems
+System Software
+System Software
+Professional Practice in Industry
+The UNIX Programming Environment
+Programming in C++
+Programming in C#
+Programming in Lisp
+Programming in Lisp
+Programming in Perl
+Programming in Perl
+Programming in Python
+Information Security
+Survey of Artificial Intelligence for Non-Majors
+Professional Practice in Industry
+Undergraduate Research in Computer Science and Engineering
+Computer Science and Engineering Research for Thesis
+Overview of Computer Systems For Non-Majors
+Survey of Artificial Intelligence for Non-Majors
+Software Engineering Techniques
+Software Requirements Analysis
+Distributed Enterprise Computing
+Applied Enterprise Architectures and Services
+Mobile Application Development
+Intermediate Studies in Software Engineering
+Introduction to Database Systems
+Advanced Database Management Systems
+Introduction to Data Mining
+Introduction to Network Science
+Intermediate Studies in Databases
+Automata and Formal Languages
+Intermediate Studies in Computation Theory
+Intermediate Studies in Algorithms
+Compiler Design and Implementation
+Intermediate Studies in Programming Languages
+Introduction to Cryptography
+Intermediate Studies in Cryptography
+Numerical Methods
+Intermediate Studies in Computer Architecture
+Mobile Handset Systems and Networking
+Operating Systems Laboratory
+Comparative Operating Systems
+Intermediate Studies in Operating Systems
+Introduction to Parallel Computing
+Intermediate Studies in Parallel Computing
+Computer Networking and Internet Technologies
+Network Programming
+Introduction to Wireless Networking
+Intermediate Studies in Computer Networking
+Information Security
+Information Security Projects
+Network Security
+Intermediate Studies in Computer Security
+Social, Ethical, and Professional Issues in Computing
+Survey of Artificial Intelligence I: Basic Techniques
+Survey of Artificial Intelligence II: Advanced Techniques
+Machine Learning and Statistical Pattern Recognition
+Computer Vision for Human-Computer Interaction
+Foundations of Speech and Language Processing
+Introduction to Neural Networks
+Introduction to Cognitive Science
+Intermediate Studies in Artificial Intelligence
+Computer Game and Animation Techniques
+Real-Time Rendering
+Geometric Modeling
+Introduction to Scientific Visualization
+Advanced Computer Graphics
+Intermediate Studies in Computer Graphics
+Intermediate Studies in Multidisciplinary Computing
+Proseminar in Cognitive Science
+Capstone Design: Software Applications
+Capstone Design: Game Design and Development
+Capstone Design: Computer Animation
+Capstone Design: Knowledge-Based Systems
+Capstone Design: Information Systems
